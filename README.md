@@ -7,6 +7,8 @@
 ## Useful Links
 
 Download it from forum Thread!
+Note: Pulling from GitHub some files cannot be pushed, like Migration Folder.
+Please enter on the URL below and download it from forum thread.
 
 * [Website](https://lepiigortv.com)
 * [Forum Thread](https://opengamescommunity.com/index.php?resources/formorgar-mines-theme.606/)
