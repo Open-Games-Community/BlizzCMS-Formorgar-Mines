@@ -7,7 +7,7 @@
 ## Useful Links
 
 Download it from forum Thread!
-Note: Pulling from GitHub some files cannot be pushed, like Migration Folder.
+Note: Pulling from GitHub some files cannot be pushed, like Migration Folder and large files ( videos ).
 Please enter on the URL below and download it from forum thread.
 
 * [Website](https://lepiigortv.com)
