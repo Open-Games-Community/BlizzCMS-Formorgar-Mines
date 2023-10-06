@@ -1,7 +1,6 @@
 # BlizzCMS-Formorgar-Mines
 BlizzCMS Formorgar Mines
 
-Official Thread: https://opengamescommunity.com/index.php?resources/formorgar-mines-theme.606/
 
 ![1](https://github.com/Open-Games-Community/BlizzCMS-Formorgar-Mines/assets/89811188/8e11fcaf-272c-4bc2-8b12-a4c9e020d8d8)
 ![4](https://github.com/Open-Games-Community/BlizzCMS-Formorgar-Mines/assets/89811188/d8dd9241-9d9d-4440-b395-508d0d0a5726)
